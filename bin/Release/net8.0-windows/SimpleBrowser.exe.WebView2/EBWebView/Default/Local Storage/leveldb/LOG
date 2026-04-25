@@ -1,0 +1,9 @@
+2026/03/14-23:26:03.625 9dd4 Reusing MANIFEST D:\Coding\gravity\simple-browser\bin\Release\net8.0-windows\SimpleBrowser.exe.WebView2\EBWebView\Default\Local Storage\leveldb/MANIFEST-000001
+2026/03/14-23:26:03.629 9dd4 Recovering log #3
+2026/03/14-23:26:03.631 9dd4 Reusing old log D:\Coding\gravity\simple-browser\bin\Release\net8.0-windows\SimpleBrowser.exe.WebView2\EBWebView\Default\Local Storage\leveldb/000003.log 
+2026/03/14-23:32:29.271 9a78 Level-0 table #5: started
+2026/03/14-23:32:29.276 9a78 Level-0 table #5: 292457 bytes OK
+2026/03/14-23:32:29.279 9a78 Delete type=0 #3
+2026/03/14-23:50:24.532 9a78 Level-0 table #7: started
+2026/03/14-23:50:24.536 9a78 Level-0 table #7: 152935 bytes OK
+2026/03/14-23:50:24.538 9a78 Delete type=0 #4
