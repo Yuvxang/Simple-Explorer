@@ -1,0 +1,7 @@
+D:\Coding\gravity\simple-browser\publish\SimpleBrowser.pdb
+D:\Coding\gravity\simple-browser\publish\runtimes\win-x64\native\WebView2Loader.dll
+D:\Coding\gravity\simple-browser\publish\WebView2Loader.dll
+D:\Coding\gravity\simple-browser\publish\Microsoft.Web.WebView2.Core.xml
+D:\Coding\gravity\simple-browser\publish\Microsoft.Web.WebView2.Wpf.xml
+D:\Coding\gravity\simple-browser\publish\Microsoft.Web.WebView2.WinForms.xml
+D:\Coding\gravity\simple-browser\publish\SimpleBrowser.exe
